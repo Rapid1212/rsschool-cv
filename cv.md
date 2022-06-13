@@ -1,5 +1,3 @@
-![Альтернативный текст](D:/Rapid12/Desktop/Foto.png)
-
 ### DMYTRO BONDARENKO
 #### PERSONALLY INFO
 >Born – 01 Oct. 1973 in Kharkov.
